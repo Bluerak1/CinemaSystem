@@ -1,0 +1,2 @@
+# CinemaSystem
+Alkalmazások fejlesztése project
